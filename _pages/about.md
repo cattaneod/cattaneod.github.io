@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Daniele Cattaneo - Academic Page"
+title: "Daniele Cattaneo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
